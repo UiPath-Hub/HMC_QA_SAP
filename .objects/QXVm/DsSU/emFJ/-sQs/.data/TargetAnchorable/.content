@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610242&amp;wid=a8b0-8668" ContentHash="5idobde8nkGAJdmdvtpDCA" DesignTimeRectangle="297, 79, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" Guid="b4d381a4-66e0-4b48-aac4-756c006f754e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='a8b0-8668' title='Verify Pack Out List' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="199, 79, 98, 52" ElementType="Text" FriendlyName="'Samples'" FullSelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' type='' aaname='Samples' check:text='Samples' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1rHnK_mnpgEOsyFd5kY6TUg</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="470, 79, 154, 52" ElementType="Text" FriendlyName="'Special Requests'" FullSelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' type='' aaname='Special Requests' check:text='Special Requests' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">2ESB0AC85C0etG10AC1RN3w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xeplr7pVRU2WP3O2fqqteg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="402f1a78d959357b9213df654e392b19.png" xmlns="">0w-shdmXsUUWobYQ3UcrY9A</imageRef>
+</TargetAnchorable>

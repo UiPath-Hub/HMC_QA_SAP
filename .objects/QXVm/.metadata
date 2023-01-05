@@ -1,0 +1,14 @@
+﻿{
+  "Id": "QXVmOIi-Ukic2-9x1WgYIA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/QXVmOIi-Ukic2-9x1WgYIA",
+  "Name": "GOOGLE_CHROME_LIMS",
+  "Type": "App",
+  "Created": "2022-04-28T06:41:36.4700817Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-09T02:52:42.2721913Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

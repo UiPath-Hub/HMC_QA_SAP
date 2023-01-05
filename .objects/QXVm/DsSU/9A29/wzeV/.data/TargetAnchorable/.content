@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page" ContentHash="C90juiqoKUKOwoLbibjb4A" DesignTimeRectangle="52, 177, 96, 18" ElementType="Text" FriendlyName="'Verify Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Verify Pack Out' parentid='Edit' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Verify Pack Out' parentid='Edit' tag='DIV' type='' check:text='Verify Pack Out' /&gt;" Guid="38dae64e-35ce-4c1d-b50d-435d2838a6e7" Reference="ravHvc9Fl0KflCa7O_MBLA/wzeVJL-U6EW3XXXgPvMJOg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack Out List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="189, 177, 30, 18" ElementType="Text" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='View' parentid='View' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='View' parentid='View' tag='DIV' type='' check:text='View' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1qES-W7lzA0mk88ApK8ZwYA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0hqQ9_V5_OUKWRimwsOEuhQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cfa33b261f5963574bd84cf5103016c8.png" xmlns="">0MVL8PGLabEqNyAYg_B3pdA</imageRef>
+</TargetAnchorable>

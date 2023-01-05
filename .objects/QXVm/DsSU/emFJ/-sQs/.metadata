@@ -1,0 +1,13 @@
+﻿{
+  "Id": "-sQsKSEqX0SZ0hUXKadNcA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/-sQsKSEqX0SZ0hUXKadNcA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/emFJGUIP00CYuXD7pqkFYg",
+  "Name": "BATCH_MANAGEMENT_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-08T08:19:53.5185386Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-08T08:19:53.5185386Z"
+}

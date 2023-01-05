@@ -1,0 +1,13 @@
+﻿{
+  "Id": "2JIZmqCnI0OO1gkbDjNi6w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/2JIZmqCnI0OO1gkbDjNi6w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/k4yQAcsbXkismRXbCE7txg",
+  "Name": "SAMPLE_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-12T22:54:13.4883857Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T22:54:13.4883857Z"
+}

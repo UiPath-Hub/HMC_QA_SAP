@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ezNWCqBKwEGYC8tQYYL4mQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/ezNWCqBKwEGYC8tQYYL4mQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "PACk_OUT_FIRST_2",
+  "Type": "Element",
+  "TaxonomyType": "Cell",
+  "Created": "2022-06-07T07:19:55.0968055Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-07T07:19:55.0968055Z"
+}

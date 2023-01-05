@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify" ContentHash="O2tUL1wKnEihWbHDScCZCQ" DesignTimeRectangle="122, 222, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" Guid="215ebb47-2cb1-4429-bc8b-becccfaf2bab" Reference="ravHvc9Fl0KflCa7O_MBLA/ME3Qnx1IJUe3m5pKGGkv0w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="206, 222, 90, 18" ElementType="Text" FriendlyName="'Classify Result'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Classify Result' parentid='Classify Result' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Classify Result' parentid='Classify Result' tag='DIV' type='' check:text='Classify Result' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1iIsffVF8wEyvbXLhpw8BNw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0iF27Nk2Rkky4AwAvZVJjMA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d1f2554a9fa9b0dce763c83bfdc3cdc.png" xmlns="">0lLtFMGhgREm4y8R65ziF4g</imageRef>
+</TargetAnchorable>

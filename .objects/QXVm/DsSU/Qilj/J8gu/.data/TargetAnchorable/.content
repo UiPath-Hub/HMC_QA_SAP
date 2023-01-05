@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1654676615227" ContentHash="KElPmARkaUeHtS8tF51lUw" DesignTimeRectangle="177, 342, 317, 21" ElementType="InputBox" FriendlyName="'RP225N'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" Guid="824c64ed-97fa-4f9b-a22f-a7c908987120" Reference="ravHvc9Fl0KflCa7O_MBLA/J8guAoYKkkyvGLOhELVMHQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="38, 339, 136, 28" FriendlyName="'Product Type *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='Product Type ' check:text='Product Type *' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1mOuyMAA4_kmuvsIkn7FKdQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0F8pt6C_naESGBkzMRAaCBg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f6d72998e100d7b8d658ec9a1bef0469.png" xmlns="">0PirY0h06VUu7qruyiZ3yhA</imageRef>
+</TargetAnchorable>

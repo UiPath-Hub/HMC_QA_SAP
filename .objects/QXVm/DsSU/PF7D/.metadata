@@ -1,0 +1,15 @@
+﻿{
+  "Id": "PF7Dvz79qkuh_QRP9o3iOg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "BATCH_VERIFY_PACKOUT_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-28T07:47:31.4031247Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T10:23:57.6333601Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

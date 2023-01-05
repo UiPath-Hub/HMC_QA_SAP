@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="yeGVtcNb6kqH8GJ8nv9qeg" Reference="ravHvc9Fl0KflCa7O_MBLA/jSw2EUgmR0-MpyLflTLfqQ" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='LIMS *' /&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2609439&amp;wid=c67f-9732" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0z4q9y_6-Yk2wySYVVadp-g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e3bd27f0288a84af843d89ea34fb33cd.png" xmlns="">0Eov8j9yFzE2dwifM2rsvBQ</imageRef>
+</TargetApp>

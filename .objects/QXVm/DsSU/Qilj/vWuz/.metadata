@@ -1,0 +1,13 @@
+﻿{
+  "Id": "vWuzB5pxr0-A_w9PfjSuHg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/vWuzB5pxr0-A_w9PfjSuHg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "CLASSIFY_DATE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T08:42:37.9288136Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:42:37.9288136Z"
+}

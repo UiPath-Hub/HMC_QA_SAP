@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="wvAeOJ3LOUKqoGlUE5ktUw" Reference="ravHvc9Fl0KflCa7O_MBLA/3DkRCewtS0W75ASUmS5AnQ" Selector="&lt;html app='chrome.exe' htmlwindowname='9875-9e9a' title='Batch Pack Out : 60115626' /&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610329&amp;wid=9875-9e9a" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0A61_vLJJdkypmuUPeMcEwQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="106934f7aabbf51c954ebbb8a5d916af.png" xmlns="">0M9bSPoZBcUeTitCm6P87sA</imageRef>
+</TargetApp>

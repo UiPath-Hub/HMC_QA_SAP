@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="Lf7wnHexGkOjgVRNLptkSg" Reference="ravHvc9Fl0KflCa7O_MBLA/wyImqX1fIEGcLMlUQ_5YOA" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Lab Admin *' /&gt;" Url="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2620417&amp;wid=7549-10e6" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0eUqrtlNGp0STm9UP9MH_Pw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="90b7ca35b61fee9fe99760dcdbc116ac.png" xmlns="">0a72pOl30G0COSekA3OlgZw</imageRef>
+</TargetApp>

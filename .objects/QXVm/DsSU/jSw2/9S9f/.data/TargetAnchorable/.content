@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc" ContentHash="vLfFnA-Ink-COENUn5qRIQ" DesignTimeRectangle="278, 422, 25, 25" FriendlyName="'TD'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='menu6_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='menu6_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' type='' aaname='                                                 ' /&gt;" Guid="955f2f00-f5e6-49a7-9550-c8994f29b539" Reference="ravHvc9Fl0KflCa7O_MBLA/9S9feQFjCUS_6fkTy9mf2A" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='LIMS *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="251, 441, 85, 34" FriendlyName="'Blend &amp; Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='menu6_node' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='menu6_node' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='                                                     Blend &amp;amp; Pack Out                                                                                                      ' check:text='Blend &amp;amp; Pack Out' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1F85k0T3azkaZPICYnbN1rw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0DHILy9tL90idh3W7mgqFCQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1e0a394c450ed1dcec66caafae433491.png" xmlns="">0EwXBuf2UK0OUirQgHVFlJg</imageRef>
+</TargetAnchorable>

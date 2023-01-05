@@ -1,0 +1,16 @@
+﻿{
+  "Id": "20KqBi2PqkaOY9yn87qdjw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/20KqBi2PqkaOY9yn87qdjw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "CLASSIFY_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-04-28T08:12:11.7697095Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-08T07:16:52.5330211Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

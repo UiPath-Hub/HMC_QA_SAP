@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1651134325479" ContentHash="g57azMXmY0earog63ThhPQ" DesignTimeRectangle="310, 686, 164, 28" ElementType="Text" FriendlyName="'Blend and'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_detailmaint2__textdiv2' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_detailmaint2__textdiv2' tag='DIV' type='' aaname='Blend and Pack Out Analysis' check:text='Blend and Pack Out Analysis' /&gt;" Guid="6c44d113-66cd-40d1-90b3-84dfea55dd7c" Reference="ravHvc9Fl0KflCa7O_MBLA/AoQgjhMELUKgNCeaYWHnKg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="151, 686, 126, 28" ElementType="Text" FriendlyName="'Spot Analysis Average'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_detailmaint2__textdiv1' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='tab_detailmaint2__textdiv1' tag='DIV' type='' aaname='Spot Analysis Average' check:text='Spot Analysis Average' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1y5UDYmFXUkOYlRdru5o80Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vykEGccLTUqx3ldLRVlBMA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="98884c27df631fb7c228efa7684973fc.png" xmlns="">0t9Qb6hUhd064kzfXyY34Gg</imageRef>
+</TargetAnchorable>

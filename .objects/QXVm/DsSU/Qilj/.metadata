@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Qilj-ST1z02kRX-OYzCWEA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "BATCH_CLASSIFY_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-28T08:28:08.5731559Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-09T02:55:26.3790117Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify" ContentHash="zZzPaVdF10-qn-HBWKa6dg" DesignTimeRectangle="177, 215, 125, 32" FriendlyName="'Classify Result'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;section&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' parentid='advancedtoolbar' tableCol='9' tag='TABLE' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='advancedtoolbar' aaname='' tag='TABLE' check:text='Classify Result' /&gt;" Guid="979f0ce3-d575-437c-8eed-cc497b287dd9" Reference="ravHvc9Fl0KflCa7O_MBLA/9wZfb89sEEWOM3g6YkTTVA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="122, 222, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1WKNH0yLNgkedkJrJ3dOOrA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bi9zKavlsUCVLeGuTkoMWg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="77ba580593849f42a3a5d818f5c732fb.png" xmlns="">0jr6k3qCJQkmV0h_6UtA2Lg</imageRef>
+</TargetAnchorable>

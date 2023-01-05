@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="rv0bbdASeE6qnliZo_ZB4w" DesignTimeRectangle="18, 303, 1910, 178" FriendlyName="'Product Type'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tablebody' tag='TBODY' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tablebody' tag='TBODY' type='' aaname=' ' check:text='Product Type : - RP348N (6)‎&amp;#xA;&amp;#xA;&amp;#xA; 8/8 BS-PL-220811-0020PP1RP348N60120006D901BBlend sampleBS :' /&gt;" Guid="b362e735-aa2f-426f-a14c-1470408bda90" Reference="ravHvc9Fl0KflCa7O_MBLA/P5azdcYujE6hsEMkS59NtQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Sample List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0bxS6cg0u1EOzSIIl0ZPGPQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d71368206c8f78beb71ccfe4d3ce14d9.png" xmlns="">0MJdDc_QYh0iHKdhDhN13Gw</imageRef>
+</TargetAnchorable>

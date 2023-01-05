@@ -1,0 +1,13 @@
+﻿{
+  "Id": "DeMadLgr-UKoN3Q4M2Ytjw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/DeMadLgr-UKoN3Q4M2Ytjw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "SPOT_ANALYSIS_TAB",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-04-28T08:42:36.7622078Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:42:36.7622078Z"
+}

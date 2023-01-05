@@ -1,0 +1,13 @@
+﻿{
+  "Id": "J8guAoYKkkyvGLOhELVMHQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/J8guAoYKkkyvGLOhELVMHQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "PRODUCT_TYPE",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-08T08:25:11.323434Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-08T08:25:11.323434Z"
+}

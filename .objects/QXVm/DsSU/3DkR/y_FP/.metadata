@@ -1,0 +1,13 @@
+﻿{
+  "Id": "y_FPMy8aDUW50HXb-buB3A",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/y_FPMy8aDUW50HXb-buB3A",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/3DkRCewtS0W75ASUmS5AnQ",
+  "Name": "STATUS_DROP_DOWN",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-06-13T06:38:11.0120736Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-13T06:38:11.0120736Z"
+}

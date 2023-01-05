@@ -1,0 +1,13 @@
+﻿{
+  "Id": "EIW2a8xvp0iBTRtt5i6bAA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/EIW2a8xvp0iBTRtt5i6bAA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/LAlsfjIbekeEONP2JveBuA",
+  "Name": "BOT_SIGNATURE_RADIOBUTTON",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-06-07T02:43:59.9576436Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-07T02:43:59.9576436Z"
+}

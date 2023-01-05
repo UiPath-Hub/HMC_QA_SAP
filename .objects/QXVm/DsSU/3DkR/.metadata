@@ -1,0 +1,15 @@
+﻿{
+  "Id": "3DkRCewtS0W75ASUmS5AnQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/3DkRCewtS0W75ASUmS5AnQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "BATCH_HISTORICAL_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-06-13T06:36:58.1245229Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-13T06:41:48.3110408Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

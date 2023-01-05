@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="vOhzkJWFEUC0QyVqrnw9ag" Selector="&lt;html app='chrome.exe' htmlwindowname='373c-9148' title='Verify Pack Out Batch 60120041'/&gt;" Url="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3040148&amp;wid=373c-9148" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0vpVqNDiqhUi1rB32mxF_6w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="15b2e3bf1c09a39a8111d99850d71412.png" xmlns="">0htk5jIeI0E-S39iJ2rMUFA</imageRef>
+</TargetApp>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="1Hpo9-EgEkaZVM0iLY3HIQ" DesignTimeRectangle="17, 300, 1911, 306" FriendlyName="'Production Line Product'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_list' tag='TABLE' /&gt;" Guid="3d3c7e70-b599-4101-bc4d-ea1247142025" Reference="ravHvc9Fl0KflCa7O_MBLA/Xw-lXrsg3E-PY5P1JokBkg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Blend*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0P2MccwmOuEuAgTd6FPvcIA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="deea951fc69c4f67ae55befb2ddc4840.png" xmlns="">0IL-Ss0y4uEC7pe6HJvl-rw</imageRef>
+</TargetAnchorable>

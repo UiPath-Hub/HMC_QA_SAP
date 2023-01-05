@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2620426&amp;wid=7549-10e6" ContentHash="8qTaKxtu7U6T8lKZYXVkEg" DesignTimeRectangle="1660, 170, 150, 29" ElementType="ListItem" FriendlyName="'LIMS Menu'" FullSelectorArgument="&lt;webctrl aria-role='menuitem' id='ui-id-43' tag='LI' innertext='LIMS Menu' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='menuitem' tag='LI' innertext='LIMS Menu' type='' aaname='LIMS Menu' check:text='LIMS Menu' /&gt;" Guid="5325dd5a-52d2-4e27-8359-c669de1e1a87" Reference="ravHvc9Fl0KflCa7O_MBLA/AwGabxGQ0kqyh-dpI_NOrw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Specification *' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0i4LxS3jZEEi4Zep_KAOthQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5d9b0918cc9e269d37db6311ba37dac1.png" xmlns="">0Af9BubcbhkaokzZFgaqbkg</imageRef>
+</TargetAnchorable>

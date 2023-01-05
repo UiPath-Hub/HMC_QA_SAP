@@ -1,0 +1,17 @@
+﻿{
+  "Id": "Xw-lXrsg3E-PY5P1JokBkg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/Xw-lXrsg3E-PY5P1JokBkg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/sn-bw57ik0SjkCqu_dWLOQ",
+  "Name": "BLEND_AND_PACK_OUT_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-19T02:06:40.230586Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T13:05:41.6635242Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

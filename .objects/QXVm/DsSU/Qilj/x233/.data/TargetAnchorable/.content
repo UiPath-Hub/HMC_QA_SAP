@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2620508&amp;wid=44bf-14e2" ContentHash="NkpGBzXn3E6T3qBfpZI7Nw" DesignTimeRectangle="1669, 205, 132, 17" ElementType="Text" FriendlyName="'Lab Admin Menu'" FullSelectorArgument="&lt;webctrl tag='A' aaname='Lab Admin Menu' innertext='Lab Admin Menu' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' aaname='Lab Admin Menu' innertext='Lab Admin Menu' type='' check:text='Lab Admin Menu' /&gt;" Guid="883aae40-0dfd-4f99-84f9-6f2f0478772e" Reference="ravHvc9Fl0KflCa7O_MBLA/x23389idrE-DJpq_sSVj9w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch *' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Y0BBfV76MEW7rNhkqu7h3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a850171e20f8fd71749d23e0a995c6b6.png" xmlns="">0k0mQ9Gf5eEG1onxlyhcpKw</imageRef>
+</TargetAnchorable>

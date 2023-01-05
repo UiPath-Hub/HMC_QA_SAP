@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610242&amp;wid=a8b0-8668" ContentHash="Jk7cHFowwEWHGZd-3M8QBQ" DesignTimeRectangle="306, 255, 132, 17" ElementType="Text" FriendlyName="'Classify'" FullSelectorArgument="&lt;webctrl id='topmenu_Classify_tab24' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='topmenu_Classify_tab24' tag='A' type='' aaname='Classify' check:text='Classify' /&gt;" Guid="e0c17a05-b7a5-47f1-b717-72e738af1a81" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='a8b0-8668' title='Verify Pack Out List' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="297, 79, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1z0mBw2G-tECW2iy1D0B7Fg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0BpFeNe_nF06Oqs2IZ4CMfw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c41e2478aa3969e824846a570bd33ab9.png" xmlns="">0YUY9krzDbESOefRwIkofnw</imageRef>
+</TargetAnchorable>

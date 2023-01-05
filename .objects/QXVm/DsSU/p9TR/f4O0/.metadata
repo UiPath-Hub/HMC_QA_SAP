@@ -1,0 +1,16 @@
+﻿{
+  "Id": "f4O0tgZcf0yYz4ie5ASDCA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/f4O0tgZcf0yYz4ie5ASDCA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/p9TRroiAikKWtqRlA8xIKg",
+  "Name": "WAIVER_RADIO_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-19T06:32:59.9467512Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-19T06:38:38.6669262Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

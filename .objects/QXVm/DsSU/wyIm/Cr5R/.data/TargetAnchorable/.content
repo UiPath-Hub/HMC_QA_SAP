@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page" ContentHash="qRy4rYDbqECQYYpySEaW7w" DesignTimeRectangle="368, 254, 25, 25" FriendlyName="'TD'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='specifications_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' parentid='specifications_node' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='specifications_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' parentid='specifications_node' type='' aaname='                                                 ' /&gt;" Guid="64223bcf-e770-4075-8592-3c8cab7db060" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Lab Admin Menu' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="341, 273, 85, 34" FriendlyName="'Specifications'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='specifications_node' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' parentid='specifications_node' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='specifications_node' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' parentid='specifications_node' aaname='                                                     Specifications                                                                                                      ' check:text='Specifications' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1b2dSL253L0WIH4oRB5lFmA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0jynPtHXWOEyhFqdbfFvYIA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0d764c235645df1da2968996e1c1d825.png" xmlns="">0hSSmg37NI0eJJiu8uoEaOg</imageRef>
+</TargetAnchorable>

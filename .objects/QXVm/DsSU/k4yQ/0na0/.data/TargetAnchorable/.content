@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page" ContentHash="w1xLa2JoaUK-gwl6AL0iAQ" DesignTimeRectangle="377, 222, 90, 18" ElementType="Text" FriendlyName="'Change Status'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Change Status' parentid='Change Status' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Change Status' parentid='Change Status' tag='DIV' type='' check:text='Change Status' /&gt;" Guid="3e532580-00a1-4f0d-8e74-84cb3b25fe3c" Reference="ravHvc9Fl0KflCa7O_MBLA/0na0BN0gUEqJ-xQcLCDLpA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='9875-9e9a' title='Batch List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="501, 222, 115, 18" ElementType="Text" FriendlyName="'Resend Inspection'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Resend Inspection' parentid='Resend Inspection' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Resend Inspection' parentid='Resend Inspection' tag='DIV' type='' check:text='Resend Inspection' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1gnWLpxSEnE-g4Er3IQVkxw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ODjjUWdLIEyot4ycvATOoQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0012f38e8602a1201b2cde1d8aa0fb59.png" xmlns="">0gEYqjxi0EUS5OQlO4slsaQ</imageRef>
+</TargetAnchorable>

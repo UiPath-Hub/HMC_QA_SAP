@@ -1,0 +1,13 @@
+﻿{
+  "Id": "wzeVJL-U6EW3XXXgPvMJOg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/wzeVJL-U6EW3XXXgPvMJOg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/9A29sjVTWEO2GYaO16FD8w",
+  "Name": "VERIFY_PACK_OUT",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-17T08:09:54.8366068Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-17T08:09:54.8366068Z"
+}

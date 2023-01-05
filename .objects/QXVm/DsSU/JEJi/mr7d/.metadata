@@ -1,0 +1,17 @@
+﻿{
+  "Id": "mr7d3ZO0w0etA4IPaaXL0Q",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/mr7d3ZO0w0etA4IPaaXL0Q",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/JEJiSsdbzUeEEJbTM_zKeQ",
+  "Name": "HISTORICAL_SAMPLE_STATUS",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-28T07:13:05.7608728Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-12T23:05:06.6565191Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

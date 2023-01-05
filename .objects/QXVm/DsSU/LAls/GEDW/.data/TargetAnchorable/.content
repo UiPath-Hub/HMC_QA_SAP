@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page&amp;page=LotPackOut" ContentHash="NkSkVDcef0OyDHhxl19x_A" DesignTimeRectangle="217, 177, 118, 18" ElementType="Text" FriendlyName="'Generate Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Generate Pack Out' parentid='GenLotPack' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Generate Pack Out' parentid='GenLotPack' tag='DIV' type='' check:text='Generate Pack Out' /&gt;" Guid="e7fc24e2-e1d1-4fb6-9e1c-04ad9eec70a4" Reference="ravHvc9Fl0KflCa7O_MBLA/GEDWS34Ou0aHyRxr5LKeVQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="133, 177, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1ttw6OLw29E6JatYx9QOrvw</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="358, 177, 124, 18" ElementType="Text" FriendlyName="'Send To Verification'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Send To Verification' parentid='Verification' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Send To Verification' parentid='Verification' tag='DIV' type='' check:text='Send To Verification' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">2SApjaEjAaEiTNaoZKjjb8g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0RSNQ1eOLN0GjMzOy42Ra1g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="42af0f3faafb20796bfa6d5ab802e1da.png" xmlns="">0PLEhnSoo1k2hu7_kE8JXAQ</imageRef>
+</TargetAnchorable>

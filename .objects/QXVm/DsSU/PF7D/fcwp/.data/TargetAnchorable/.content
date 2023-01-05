@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotManageMaint2&amp;multisdimode=EditSet|}&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1660714680143" ContentHash="PAd1JDNYa0WYUQN0_lo2sw" DesignTimeRectangle="174, 250, 317, 21" ElementType="InputBox" FriendlyName="'Grade-1'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='text' rowName='Product Type *' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='text' rowName='Product Type *' aaname='' /&gt;" Guid="b2649ac0-8be9-49e9-a4f3-e187e8c1a25b" Reference="ravHvc9Fl0KflCa7O_MBLA/fcwpc-3NREyAdK1XO0NQaQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack Out *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="35, 247, 136, 28" FriendlyName="'Product Type *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='TD' innertext='Product Type *' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' innertext='Product Type *' aaname='Product Type ' check:text='Product Type *' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1R_XtqicFVEWjhp0tdupWMw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0oUSZn0HdyESU9OrcRjeCuQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="32b5aa0c54da397e74b4d2afe3a19eb8.png" xmlns="">0l1MtjqagekaGSLLbXnitZw</imageRef>
+</TargetAnchorable>

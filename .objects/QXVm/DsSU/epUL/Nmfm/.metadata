@@ -1,0 +1,17 @@
+﻿{
+  "Id": "NmfmpRK_I0Kz2jDNSH4oLA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/NmfmpRK_I0Kz2jDNSH4oLA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/epULQ3cz00CH_QDmiVXAmA",
+  "Name": "SPEC_RANGE",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-08-09T00:28:40.9406885Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-09T00:30:34.7742454Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

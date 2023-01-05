@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2620414&amp;wid=7549-10e6" ContentHash="o0TTe9TKokWWTFevtlIdQQ" DesignTimeRectangle="1735, 142, 16, 16" FriendlyName="'IMG f_item7t_41_image'" FullSelectorArgument="&lt;webctrl aaname='Menu and Dashboard Picker' uipath-html-title='Menu and Dashboard Picker' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Menu and Dashboard Picker' uipath-html-title='Menu and Dashboard Picker' tag='IMG' type='' /&gt;" Guid="6825d6ae-d658-4874-9c76-f19edf637d4b" Reference="ravHvc9Fl0KflCa7O_MBLA/xkIFrnrG1E65r97v29GO5A" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1775, 142, 16, 16" ElementType="Icon" FriendlyName="'IMG f_item6t_9_image'" FullSelectorArgument="&lt;webctrl aaname='Bulletins' uipath-html-title='Bulletins' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Bulletins' uipath-html-title='Bulletins' tag='IMG' type='' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">6vpQtgvlon02TWTO0So5-7w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05LjQ0GZG4EeCU6Fy2IHEHg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3d5ad2d14a0ac17610d311fdb663ea2a.png" xmlns="">0PPSlI-eUWU-k39qSxuIFvw</imageRef>
+</TargetAnchorable>

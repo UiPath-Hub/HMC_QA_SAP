@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610771&amp;wid=2c84-bec4" ContentHash="QIjiL6BXiU2x6E2wq8XRDw" DesignTimeRectangle="297, 128, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" Guid="4fe57328-d43e-49d5-aaba-3851c522f085" Reference="ravHvc9Fl0KflCa7O_MBLA/HR_PRxJuUkeY1VZd4AmzdQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack Out List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="199, 128, 98, 52" ElementType="Text" FriendlyName="'Samples'" FullSelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' type='' aaname='Samples' check:text='Samples' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">6PcCA90OBMUCfzH2P_kU7KQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="470, 128, 154, 52" ElementType="Text" FriendlyName="'Special Requests'" FullSelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' type='' aaname='Special Requests' check:text='Special Requests' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">7hPpPYKGH-kKqHbeAkdG56g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">05nQKF8vIMUmmsgHl7OahLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f24dbed0953c5de9431bc000c7df4d95.png" xmlns="">0CqqXzonbH0uAo0EDxqoHUA</imageRef>
+</TargetAnchorable>

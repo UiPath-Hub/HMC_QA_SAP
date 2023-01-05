@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/logon.jsp" ContentHash="b1S-7uICzUeHoVthCZ7vdQ" DesignTimeRectangle="1007, 739, 225, 80" ElementType="Button" FriendlyName="'Sign in'" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' aaname='                                 Sign in                             ' check:text='Sign in' /&gt;" Guid="a7043f64-808f-41b3-99a7-01fbd1ac8a5e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='a449-734b' title='LabVantage Logon' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="895, 634, 338, 65" ElementType="DropDown" FriendlyName="'labvantage'" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' aaname='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pTDSRlWATUWDOebJXCScXg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0UoAT61IOeEObtibqNVyUBw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e8bad91c365d60cd359e108757d227a8.png" xmlns="">0ALaEls6I_02e7gFoif9qJA</imageRef>
+</TargetAnchorable>

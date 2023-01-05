@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="R8cnwzMnJ0-SBd857x2d8g" Selector="&lt;html app='chrome.exe' htmlwindowname='a449-734b' title='LabVantage Logon*' /&gt;" Url="[strURLName]" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0hUqWOSKNvU6qtLthDALdTg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ba28083a1579bcb6261bba59753abf22.png" xmlns="">0bpJzeZ-tpE2sgz-qcDlsOw</imageRef>
+</TargetApp>

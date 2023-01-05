@@ -1,0 +1,17 @@
+﻿{
+  "Id": "hX48db1Y-0SQtWcQTdm9dg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/hX48db1Y-0SQtWcQTdm9dg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/epULQ3cz00CH_QDmiVXAmA",
+  "Name": "RETURN_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-09T00:29:00.1837387Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-09T00:30:49.6033345Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/logon.jsp" ContentHash="VKW_MPLuZU2UczKmQ30kLw" DesignTimeRectangle="710, 419, 525, 86" ElementType="InputBox" FriendlyName="'INPUT databaseusername'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" Guid="2307dc00-a617-4339-b947-9e2f9b9c88ae" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='a449-734b' title='LabVantage Logon' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="788, 265, 366, 49" FriendlyName="'Sign into labvantage'" FullSelectorArgument="&lt;webctrl tag='SECTION' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SECTION' type='' aaname='         Sign into          ' check:text='Sign into labvantage' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">99jnVtX77BLUa_jikMnMawGQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">098vG5Vi4ZkSu5AgT_PzBlQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="25426371ba486ed9b7eb0fa358c1f7f5.png" xmlns="">0MTtjQmMUok-qiRfr7ihayg</imageRef>
+</TargetAnchorable>

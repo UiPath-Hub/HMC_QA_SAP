@@ -1,0 +1,15 @@
+﻿{
+  "Id": "emFJGUIP00CYuXD7pqkFYg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/emFJGUIP00CYuXD7pqkFYg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "CLASSIFY_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-28T08:23:30.0648469Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:25:18.5397132Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

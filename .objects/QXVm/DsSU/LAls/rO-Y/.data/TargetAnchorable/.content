@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;sdcid=" ContentHash="sb63CdW-HEG8pErILO8gYg" DesignTimeRectangle="273, 268, 186, 26" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl id='dlg_frame2' tag='IFRAME' /&gt;&lt;webctrl parentid='listtopsearchelement' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame2' tag='IFRAME' /&gt;&lt;webctrl parentid='listtopsearchelement' tag='INPUT' type='text' aaname='' /&gt;" Guid="b3000211-fbe0-44dd-a5f9-89a7c6f0bf14" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='e7fd-b30c' title='Batch Pack Out 60115826' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="466, 271, 16, 16" ElementType="Icon" FriendlyName="'IMG'" FullSelectorArgument="&lt;webctrl id='dlg_frame2' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;img' parentid='listtopsearchelement' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame2' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='listtopsearchelement' tag='IMG' aaname='' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1pSFbpr3AVU28we6kqmM2fw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0pFMRLr9ts0iwn439oQyn6w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4dc56392b0110e30ceed199f37b5a259.png" xmlns="">0W1BkT7hI4EmqGDq5eJZv-A</imageRef>
+</TargetAnchorable>

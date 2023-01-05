@@ -1,0 +1,13 @@
+﻿{
+  "Id": "te0vgd_djka44oEc3lqv0w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/te0vgd_djka44oEc3lqv0w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "BATCH_STATUS_UNRESTR.-USE",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-19T04:07:15.901217Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-19T04:07:15.901217Z"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3035765&amp;wid=1411-e3fc" ContentHash="ujGAeQw240SY7dhQ0Qmb5g" DesignTimeRectangle="297, 79, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" Guid="4e33aafa-c6f3-4e0a-b2ba-b0b5426735ec" Reference="ravHvc9Fl0KflCa7O_MBLA/WdXHbOBJjkabRgqtiNxa4w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Blend*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="470, 79, 154, 52" ElementType="Text" FriendlyName="'Special Requests'" FullSelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' type='' aaname='Special Requests' check:text='Special Requests' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">19ZQHxljueU2BiDuHR_GA9Q</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="199, 79, 98, 52" ElementType="Text" FriendlyName="'Samples'" FullSelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' type='' aaname='Samples' check:text='Samples' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">20xI1dkM0bhUGpIKEaW_uYHA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0IGDAJevh4Uil3ZElcrAFJw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b187f271946e801e728c3f95bdc43854.png" xmlns="">0v8d-XdRRIU2Zx21LjaE-lQ</imageRef>
+</TargetAnchorable>

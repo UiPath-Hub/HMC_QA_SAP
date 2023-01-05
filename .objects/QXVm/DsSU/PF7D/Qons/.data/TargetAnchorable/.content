@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="trTSvzrSTk-PUPG8vlVCGg" DesignTimeRectangle="38, 446, 1192, 435" FriendlyName="'MFR 230C/2.16'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='LotPO' tag='TBODY' /&gt;" Guid="9b162461-62b6-4796-bbdd-89b439e2947f" Reference="ravHvc9Fl0KflCa7O_MBLA/Qonsl9q_TU2M0mV4cmpnlg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0BSxTi5Ouy0SWfZH1e1YNhw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f7e732f3bef5e110630d7971016099b9.png" xmlns="">0LCFVNfSrUEGGcRSHKwCdPg</imageRef>
+</TargetAnchorable>

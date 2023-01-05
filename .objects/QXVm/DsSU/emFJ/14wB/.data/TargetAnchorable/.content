@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3039734&amp;wid=d160-10e6" ContentHash="HGsEIS-M9Uasuuod4zkL5A" DesignTimeRectangle="1784, 300, 132, 17" ElementType="Text" FriendlyName="'Log Off (Ctrl+Q)'" FullSelectorArgument="&lt;webctrl parentid='profilemenu_4' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='profilemenu_4' tag='A' type='' aaname='Log Off (Ctrl+Q)' check:text='Log Off (Ctrl+Q)' /&gt;" Guid="989693bf-df1c-4ff2-9793-0faf1155adb9" Reference="ravHvc9Fl0KflCa7O_MBLA/14wBpKkDok-vb4nyCPJ1zA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch List' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="1">
+      <Target DesignTimeRectangle="1644, 124, 76, 52" ElementType="Text" FriendlyName="'More'" FullSelectorArgument="&lt;webctrl id='e_topmenu_19' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_19' tag='SPAN' type='' aaname='More' check:text='More' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1LVIbukifSEGM-WcdIB-H8A</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0FRvoiWu7H0imgLDyhCPlyw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5deb1c02f686aa80a576f017ccdb7c7b.png" xmlns="">0scmpGEYdxEajPkHJj-IL9Q</imageRef>
+</TargetAnchorable>

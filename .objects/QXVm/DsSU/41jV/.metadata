@@ -1,0 +1,14 @@
+﻿{
+  "Id": "41jVr-gm1USyOfL88fIPUA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/41jVr-gm1USyOfL88fIPUA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "SPECIFICATION_LIST_SCREEN",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-08-13T04:15:47.9224042Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-13T04:15:47.9224042Z"
+}

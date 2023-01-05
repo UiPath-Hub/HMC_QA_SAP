@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page" ContentHash="jREp-rBEhUy6Y-ih1dpp0w" DesignTimeRectangle="548, 422, 25, 25" FriendlyName="'TD'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Classify_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Classify_node' tag='TABLE' /&gt;&lt;webctrl tag='TD' type='' aaname='                                                 ' /&gt;" Guid="664cb48e-cfe2-480f-99a1-8e7228c7896f" Reference="ravHvc9Fl0KflCa7O_MBLA/RD06NgUXLU6V6-gNntv5Xw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='7*' title='LIMS *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="521, 441, 85, 34" FriendlyName="'Classify'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Classify_node' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Classify_node' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='                                                     Classify                                                                                                      ' check:text='Classify' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1UWxc1fmGA0-9lQHary7dmg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Q35fS9-gU0iU9I17I2Z5yA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="187f1544f18e116b4ef1e9480ec53062.png" xmlns="">0BCzqGfjH7UyusS1OPY9D6A</imageRef>
+</TargetAnchorable>

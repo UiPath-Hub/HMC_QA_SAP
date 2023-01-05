@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;sdcid=" ContentHash="W0s38XFOSkCGDDlzvsJxaw" DesignTimeRectangle="357, 226, 107, 30" FriendlyName="'Select &amp; Return'" FullSelectorArgument="&lt;webctrl id='dlg_frame3' tag='IFRAME' /&gt;&lt;webctrl id='SelectReturn' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame3' tag='IFRAME' /&gt;&lt;webctrl id='SelectReturn' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Select &amp;amp; Return' /&gt;" Guid="5cb3dd75-d58c-4d0f-97df-9c0de0b0ed3f" Reference="ravHvc9Fl0KflCa7O_MBLA/vfcXrFVZyEKAoYCCXpjmDQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='e7fd-b30c' title='Batch Pack Out 60115826' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="487, 226, 52, 30" FriendlyName="'Cancel'" FullSelectorArgument="&lt;webctrl id='dlg_frame3' tag='IFRAME' /&gt;&lt;webctrl id='Cancel' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dlg_frame3' tag='IFRAME' /&gt;&lt;webctrl id='Cancel' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Cancel' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">18q81L1D4_k6e6EkdvLY2oA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Es-0Ekxs3ku6X22aEsLMDA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2b39045a5efa08fdfd2ca0d8806c1f8d.png" xmlns="">0aGoKQAi7bEaoL6fUuk-94A</imageRef>
+</TargetAnchorable>

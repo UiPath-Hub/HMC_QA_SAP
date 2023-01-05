@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tvEbZWGHIU2OixK0nGo1CQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/tvEbZWGHIU2OixK0nGo1CQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/LAlsfjIbekeEONP2JveBuA",
+  "Name": "PACK_OUT_SIGNATURE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-04-28T07:31:57.5515349Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-07T03:14:37.9722165Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

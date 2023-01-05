@@ -1,0 +1,15 @@
+﻿{
+  "Id": "p9TRroiAikKWtqRlA8xIKg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/p9TRroiAikKWtqRlA8xIKg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "BATCH_CLASSIFY_WAIVER_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-08-19T06:30:45.2532738Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-19T06:31:31.8789976Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

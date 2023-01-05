@@ -1,0 +1,13 @@
+﻿{
+  "Id": "wRsR3rEBh0WZZRlEuSeOeg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/wRsR3rEBh0WZZRlEuSeOeg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/3DkRCewtS0W75ASUmS5AnQ",
+  "Name": "BATCH_TAB",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-29T05:55:17.1025856Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-29T05:55:17.1025856Z"
+}

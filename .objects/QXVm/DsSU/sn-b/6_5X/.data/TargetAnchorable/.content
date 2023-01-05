@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page&amp;page=LotBlendList" ContentHash="umudjNaJeUGUIOKWDdZG4Q" DesignTimeRectangle="100, 170, 91, 32" FriendlyName="'Pack Out'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;section&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' parentid='advancedtoolbar' tableCol='5' tag='TABLE' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='advancedtoolbar' aaname='' tag='TABLE' check:text='Pack Out' /&gt;" Guid="7b0b9988-2f49-4ebc-a422-5840420c8eae" Reference="ravHvc9Fl0KflCa7O_MBLA/6_5XFIDQ-USef040QLQgRw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='1411-e3fc' title='Blend &amp;amp; Pack Out List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="221, 171, 40, 30" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='View' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='View' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='View' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1vx2dYJJeM0OeP6OyM_hP_g</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="47, 171, 46, 30" FriendlyName="'Blend'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Edit' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Edit' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Blend' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">2aoqo4IC8PUiFd8kX0qU9Wg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0FqT5RDC2bEGscTgB6TLiBA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6ea32b78b7a8a9ee5300fa4077c80ecc.png" xmlns="">0Uhuqiqd8GkqTo_Sf0MMgqg</imageRef>
+</TargetAnchorable>

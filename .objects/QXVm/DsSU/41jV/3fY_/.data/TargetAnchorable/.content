@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=SpecSDCList&amp;_iframename=list" ContentHash="j3tqq7wCZ0e2MejRC2uNUg" DesignTimeRectangle="61, 384, 67, 17" ElementType="Text" FriendlyName="'RP225N D2502'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='1171317759267' tag='A' /&gt;" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='1171317759267' tag='A' type='' aaname='{0}' check:text='{0}' /&gt;&quot;, strSpecification)]" Guid="a0df9427-8ec7-4096-b7fb-c7aea1faa804" Reference="ravHvc9Fl0KflCa7O_MBLA/NDSXcZvrp0-LNjfE4zy6Fw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='8466-7956' title='Specification List' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="61, 325, 77, 17" ElementType="Text" FriendlyName="'Specification'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='A' type='' aaname='Specification' check:text='Specification' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1W6pvhF1A3Uum4sg6K51kCQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0jrwMeA_wi0-l1JOyYgv7Ow</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f779e5f6674e8d0cb63a2f185a98eb57.png" xmlns="">0IuUID1ynUEyzZfaHFwLUzA</imageRef>
+</TargetAnchorable>

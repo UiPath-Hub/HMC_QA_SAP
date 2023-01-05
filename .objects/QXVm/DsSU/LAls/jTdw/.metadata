@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jTdw5yQCt0-S0sdA0NCzJQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/jTdw5yQCt0-S0sdA0NCzJQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/LAlsfjIbekeEONP2JveBuA",
+  "Name": "PACK_OUT_DATE_INPUT_BOX",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T07:31:57.9067142Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T07:32:53.6555607Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

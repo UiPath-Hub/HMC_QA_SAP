@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=SpecSDCMaint&amp;multisdimode=EditSet&amp;navigatornodeid=EditSetVersioned&amp;command=page&amp;sdcid=SpecSDC&amp;_iframename=maint&amp;__crc=crc_1654760014767" ContentHash="VHXr1PTBoEC5qZgX5eXZYg" DesignTimeRectangle="389, 619, 149, 23" ElementType="InputBox" FriendlyName="'12.0'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='specparamitems{0}_limitlabel' tag='INPUT' type='text' /&gt;&quot;, strRow)]" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='specparamitems0_limitlabel' tag='INPUT' type='text' aaname='' /&gt;" Guid="8bc43528-cb1f-4692-a694-013165d9fdbf" IsResponsive="True" Reference="ravHvc9Fl0KflCa7O_MBLA/NmfmpRK_I0Kz2jDNSH4oLA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Edit Specification*' /&gt;" SearchSteps="Selector" WaitForReadyArgument="Complete" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="200, 617, 187, 26" ElementType="Text" FriendlyName="'MFR 230C/2.16'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='speclimits_table' tag='TABLE' /&gt;&lt;webctrl id='__speclimits_param_row{0}' tag='TH' type='' aaname='MFR 230C/2.16 Kg (Report)' /&gt;&quot;, strRow)]" FuzzyAccuracy="0.54" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='speclimits_table' tag='TABLE' /&gt;&lt;webctrl id='__speclimits_param_row{0}' tag='TH' type='' aaname='{1}' check:text='{1}' /&gt;&quot;, strRow, strParam)]" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1AdDRt3WxQkuacLWCQw3Jog</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0c1H_RYxPfUeFpum7Iw2YBw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fb0eda0809e699e51b799bce6a0542c3.png" xmlns="">0PywJcNuCd0Krqqse1g4liw</imageRef>
+</TargetAnchorable>

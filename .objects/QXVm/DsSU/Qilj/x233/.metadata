@@ -1,0 +1,13 @@
+﻿{
+  "Id": "x23389idrE-DJpq_sSVj9w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/x23389idrE-DJpq_sSVj9w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "LAB_ADMIN_MENU",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-09-09T05:13:23.6579243Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-09T05:13:23.6579243Z"
+}

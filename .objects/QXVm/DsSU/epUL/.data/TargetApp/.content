@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="IUXpSwWsvkieM5FtHz_XNw" Reference="ravHvc9Fl0KflCa7O_MBLA/epULQ3cz00CH_QDmiVXAmA" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Edit Specification *' /&gt;" Url="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3028790&amp;wid=8e9a-15e" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0DJ7jjzDxrUypUBWstYWm3g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6203877cbb52a8a858eb76d5413aea10.png" xmlns="">0yO_fzikPBUO_R_Dw2cHYsw</imageRef>
+</TargetApp>

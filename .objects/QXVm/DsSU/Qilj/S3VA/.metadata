@@ -1,0 +1,16 @@
+﻿{
+  "Id": "S3VAwZqRpkirQBXDjm9bMA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/S3VAwZqRpkirQBXDjm9bMA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "CLASSIFY_SIGNATURE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-04-28T08:42:37.2081844Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-10T08:12:40.1175155Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2618775&amp;wid=2948-edb9" ContentHash="I5PDQizsekKF8vL991TegA" DesignTimeRectangle="208, 362, 132, 17" ElementType="Text" FriendlyName="'Historical Samples'" FullSelectorArgument="&lt;webctrl id='topmenu_ManageSamples_Sample' parentid='ui-id-???' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='topmenu_ManageSamples_Sample' parentid='ui-id-*' tag='A' type='' aaname='Historical Samples' check:text='Historical Samples' /&gt;" Guid="5542b2f8-7c8f-4560-aec0-0307ff91c5c1" Reference="ravHvc9Fl0KflCa7O_MBLA/osOUeAzfFECcjbtqWeVmyQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch List' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="199, 128, 98, 52" ElementType="Text" FriendlyName="'Samples'" FullSelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' aaname='Samples' innertext='Samples' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' aaname='Samples' innertext='Samples' type='' check:text='Samples' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1r5xmmqm-tUWzpXbnjj6U7g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">00SRnapBMr0KVAWqv_noJWQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ddc67185e7e1395a2f2d884560517a0f.png" xmlns="">04Cu_xzN7VEmIcgvG4pHOZw</imageRef>
+</TargetAnchorable>

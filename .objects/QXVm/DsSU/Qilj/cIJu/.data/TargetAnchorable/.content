@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2610305&amp;wid=a70f-5b42" ContentHash="pvd64u7iAUG1Fsl_hX1tiQ" DesignTimeRectangle="1848, 79, 70, 51" FriendlyName="'DmenuGizmo.register('pr…'" FullSelectorArgument="&lt;webctrl parentid='e_profilemenu' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='e_profilemenu' tag='DIV' type='' aaname='' check:text='DmenuGizmo.register(&amp;apos;profilemenu&amp;apos;, false, true, false, 0, 0, &amp;apos;&amp;apos;, null, modernLayout' /&gt;" Guid="f6f82019-bea6-4f08-a525-9014790bab14" Reference="ravHvc9Fl0KflCa7O_MBLA/cIJu6Kn5LEq4cVYUUqIrDw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="2">
+      <Target DesignTimeRectangle="1805, 93, 36, 26" ElementType="InputBox" FriendlyName="'Recent Items'" FullSelectorArgument="&lt;webctrl id='ws_gizmotarget_f_item4t_16' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ws_gizmotarget_f_item4t_16' tag='DIV' type='' aaname='' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">13Q1IMtRUX02LSk63Vzub7g</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="1775, 97, 16, 16" ElementType="Icon" FriendlyName="'IMG f_item6t_94_image'" FullSelectorArgument="&lt;webctrl id='f_item6t_94_image' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='f_item6t_94_image' tag='IMG' type='' aaname='Bulletins' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">142qs_hQlgtUG2Pi5uqyJDnQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0aOZgd2P5Q0qOXN6JMhndoQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="42e335f1fc59eb8a983bb0d7e42c4676.png" xmlns="">0IBCn4XcGZ0ux825llQLl5Q</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "cP2Q358rVUS3yGRGTdosTQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/cP2Q358rVUS3yGRGTdosTQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "SPOT_ANALYSIS_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-05-19T03:45:57.8657231Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-13T00:44:11.5407994Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "sn-bw57ik0SjkCqu_dWLOQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/sn-bw57ik0SjkCqu_dWLOQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "BLEND_AND_PACK_OUT_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-28T07:18:15.5441052Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-13T02:33:19.6807839Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

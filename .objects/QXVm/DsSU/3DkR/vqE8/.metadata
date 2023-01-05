@@ -1,0 +1,13 @@
+﻿{
+  "Id": "vqE8KQxjPUGXjXYTf5SS1w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/vqE8KQxjPUGXjXYTf5SS1w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/3DkRCewtS0W75ASUmS5AnQ",
+  "Name": "RETURN_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-13T06:43:48.0222756Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-13T06:43:48.0222756Z"
+}

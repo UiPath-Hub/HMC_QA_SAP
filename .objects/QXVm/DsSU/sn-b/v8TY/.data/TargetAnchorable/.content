@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotBlendList&amp;_iframename=list" ContentHash="RDkZ-K3Cx0ScxeyHUXSzqA" DesignTimeRectangle="17, 271, 1911, 31" FriendlyName="'DIV list_tableheaderdiv'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tableheaderdiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl id='list_tableheaderdiv' tag='DIV' type='' aaname='' /&gt;" Guid="e2ba45d9-e231-4833-a15e-a79b9227fa77" Reference="ravHvc9Fl0KflCa7O_MBLA/v8TY2IcmW02Y5_Zjd_6h_w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Blend &amp;amp; Pack Out List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="20, 248, 89, 18" FriendlyName="'[ 1 selected ]'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='sdidiv' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='list_iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='sdidiv' tag='DIV' type='' aaname=' [  selected ] ' check:text='[ 1 selected ]' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1iopk2zCPikWAm0TJDyujTQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ipyHhggDWEaPcGaHz0oKMw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7fb494a268ad389849bba00e2f94c637.png" xmlns="">0EDaTCjp9tECbu41mUe9w5w</imageRef>
+</TargetAnchorable>

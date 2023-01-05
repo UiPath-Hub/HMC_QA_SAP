@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=login" ContentHash="2l_SA-aLeUisE9DA48ysAg" DesignTimeRectangle="794, 669, 115, 19" ElementType="Text" FriendlyName="'log out'" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' type='' aaname='log out' check:text='log out' /&gt;" Guid="086f20b8-7f14-4cae-9bcb-8a6af677a6fe" Reference="ravHvc9Fl0KflCa7O_MBLA/OOlzhJDC4k-jEScCw71pnQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='20d9-d511' title='LabVantage Logon' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="846, 341, 244, 33" FriendlyName="'Sign into labvantage'" FullSelectorArgument="&lt;webctrl tag='SECTION' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SECTION' type='' aaname='         Sign into          ' check:text='Sign into labvantage' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1tw8YpDUxM0WiEoJMLWoqzg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0JLGLd-uPKkKG7_n-cyVd_w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2adefe6d486569e6120144a6d984ea61.png" xmlns="">0bU5OU5TkCka8NVkctHor4A</imageRef>
+</TargetAnchorable>

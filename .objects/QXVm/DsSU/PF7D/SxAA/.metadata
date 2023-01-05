@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SxAAR-wQn0CbGXsq1xRAOw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/SxAAR-wQn0CbGXsq1xRAOw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "PACK_OUT_FIRST",
+  "Type": "Element",
+  "TaxonomyType": "Cell",
+  "Created": "2022-06-07T06:49:04.5047944Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-07T07:02:15.6544991Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

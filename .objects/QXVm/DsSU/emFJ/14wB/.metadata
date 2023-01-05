@@ -1,0 +1,13 @@
+﻿{
+  "Id": "14wBpKkDok-vb4nyCPJ1zA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/14wBpKkDok-vb4nyCPJ1zA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/emFJGUIP00CYuXD7pqkFYg",
+  "Name": "LOG_OFF_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-13T03:49:45.765146Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-13T03:49:45.765146Z"
+}

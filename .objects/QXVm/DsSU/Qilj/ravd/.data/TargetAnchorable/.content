@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1652931612188" ContentHash="-SvN6YhZK0idtvtjg5uAiw" DesignTimeRectangle="141, 424, 94, 21" ElementType="DropDown" FriendlyName="'Unrestr.-use'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_batchstatus' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_batchstatus' tag='SELECT' type='' aaname='' /&gt;" Guid="f02be02d-c917-4731-8d58-022bb4e789bd" Reference="ravHvc9Fl0KflCa7O_MBLA/ravdYhhMO0C6INEh8zkSdw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="38, 421, 100, 28" ElementType="Text" FriendlyName="'Batch Status'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Classify Result' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableRow='5' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Classify Result' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' aaname='Batch Status' check:text='Batch Status' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">14yPRI3fWU0uOlJnM2O4-Mw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <TargetAnchorable.PointOffset>
+    <PointOffset Position="BottomRight" X="-11" Y="-10" />
+  </TargetAnchorable.PointOffset>
+  <imageRef attrName="ImageBase64" xmlns="">0PGWRUqf7i0qDU0HskQCmag</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cf3eeda1e8253205d4959586204c4e79.png" xmlns="">01tJfVMEE-Uio-7Qo7LBFyQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GmMFYhf_4USmjKcuLuZdKQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/GmMFYhf_4USmjKcuLuZdKQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "CLASSIFY_RESULT_TAB",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-04-28T08:42:36.548879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:42:36.548879Z"
+}

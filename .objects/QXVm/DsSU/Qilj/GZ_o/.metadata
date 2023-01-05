@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GZ_oRhzjckiBdZjHIuRCDw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/GZ_oRhzjckiBdZjHIuRCDw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "LOG_ICON",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-06-27T04:29:12.3843664Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-27T04:29:12.3843664Z"
+}

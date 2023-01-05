@@ -1,0 +1,13 @@
+﻿{
+  "Id": "gnZApb9LPkudwTfey4VZFw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/gnZApb9LPkudwTfey4VZFw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/emFJGUIP00CYuXD7pqkFYg",
+  "Name": "MY_ACCOUNT",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-08-13T03:50:00.0245322Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-13T03:50:00.0245322Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "AmmoKrSZJU2Zm6p3paw-zg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/AmmoKrSZJU2Zm6p3paw-zg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/JEJiSsdbzUeEEJbTM_zKeQ",
+  "Name": "SEARCH_BATCH_INPUT_BOX",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T07:08:08.2068489Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T07:08:08.2068489Z"
+}

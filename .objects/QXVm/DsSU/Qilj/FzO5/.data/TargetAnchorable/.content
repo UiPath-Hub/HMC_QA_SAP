@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="8bJ_rtWsFUy8icB9ZwJI2Q" DesignTimeRectangle="37, 316, 1158, 594" FriendlyName="'ParameterAnalyze BySpec…'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO' tag='TABLE' /&gt;" Guid="c17f84c5-1d70-4313-b5e6-4af40a8ee03b" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='e60-f489' title='Batch Pack Out : 60115616' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="394d07681be79e6c1d0b679e2dd7eb28.png" xmlns="">00dZwjFXBxkmDFg5ylR2LSQ</imageRef>
+</TargetAnchorable>

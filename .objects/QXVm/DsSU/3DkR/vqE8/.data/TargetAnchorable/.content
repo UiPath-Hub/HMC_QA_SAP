@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page&amp;page=LotPackClassifyCS" ContentHash="M3BhnjPz-EGr_9pA6LLbAw" DesignTimeRectangle="122, 177, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" Guid="ae784a80-4e2f-40ff-87d6-839a7879130d" Reference="ravHvc9Fl0KflCa7O_MBLA/vqE8KQxjPUGXjXYTf5SS1w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0KwfpdJyw3E2WgSYTQm0DDg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f67cf1741a7cf9a5b2afd2186eede625.png" xmlns="">06ZLtOc9chkmN4D5bPB6CIQ</imageRef>
+</TargetAnchorable>

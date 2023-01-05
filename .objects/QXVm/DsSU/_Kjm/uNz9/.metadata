@@ -1,0 +1,13 @@
+﻿{
+  "Id": "uNz9XEOvsk60W8xXkWVapg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/uNz9XEOvsk60W8xXkWVapg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/_KjmECse80iWtKmDVOVIGg",
+  "Name": "LOG_OUT_REQUIRE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-11T09:36:58.3226094Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-11T09:36:58.3226094Z"
+}

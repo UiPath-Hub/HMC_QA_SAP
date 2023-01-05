@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page&amp;page=LotPackClassifyCS&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1660206973360" ContentHash="iRgkHRmJ5UargbWLhRf6HA" DesignTimeRectangle="611, 319, 205, 21" ElementType="DropDown" FriendlyName="'Classify Completed'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl tag='SELECT' type='' aaname='' /&gt;" Guid="0dcae497-50b0-42c9-9957-ff78995d251f" Reference="ravHvc9Fl0KflCa7O_MBLA/y_FPMy8aDUW50HXb-buB3A" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="496, 316, 112, 28" ElementType="Text" FriendlyName="'Status'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Batch' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' type='' aaname='Status' check:text='Status' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">2H6FvYsU8AkuCtpVayP_dNA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01NBgGPZqoEOsfmy6G_dNdw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0d3608c30d5e65630c2b19001733c1b8.png" xmlns="">0gh_xd2FJKUSNpG-Fzgz-Uw</imageRef>
+</TargetAnchorable>

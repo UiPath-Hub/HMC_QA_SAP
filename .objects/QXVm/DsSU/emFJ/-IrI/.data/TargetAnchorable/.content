@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page" ContentHash="WQXHcRxsc06XNT9pHM-_Cw" DesignTimeRectangle="23, 215, 125, 32" FriendlyName="'Classify Result'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;section&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' parentid='advancedtoolbar' tag='TABLE' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='advancedtoolbar' tag='TABLE' aaname='' check:text='Classify Result' /&gt;" Guid="241b2ea1-af89-4b0a-943b-05107efa0f2f" Reference="ravHvc9Fl0KflCa7O_MBLA/-IrITxX0Nk6d10ldB0JE7w" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="154, 215, 65, 32" FriendlyName="'View'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;section&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' parentid='advancedtoolbar' tableCol='5' tag='TABLE' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='advancedtoolbar' aaname='' tag='TABLE' check:text='View' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1t6y9M2d_VEiitspLTJR01Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-5_z0nKRnkyL7-UkFwVPag</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="734bc7accc6a4c2717984304a783d3d8.png" xmlns="">0_2pG2urQ4UaQjBHPk14mcw</imageRef>
+</TargetAnchorable>

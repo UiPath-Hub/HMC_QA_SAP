@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MvN83p3_k0Cm2H962_1G9w",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/MvN83p3_k0Cm2H962_1G9w",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/9A29sjVTWEO2GYaO16FD8w",
+  "Name": "CLASSIFY_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-06-17T08:07:36.3830626Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-17T08:07:36.3830626Z"
+}

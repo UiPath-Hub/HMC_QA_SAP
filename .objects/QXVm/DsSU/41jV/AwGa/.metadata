@@ -1,0 +1,13 @@
+﻿{
+  "Id": "AwGabxGQ0kqyh-dpI_NOrw",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/AwGabxGQ0kqyh-dpI_NOrw",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/41jVr-gm1USyOfL88fIPUA",
+  "Name": "LIMS_MENU",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-09-09T03:22:18.8981325Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-09T03:22:18.8981325Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "zGtwybGxbEqrFRFI_SBPDQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/zGtwybGxbEqrFRFI_SBPDQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/PF7Dvz79qkuh_QRP9o3iOg",
+  "Name": "VERIFY_PACK_OUT_EMAIL_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T08:12:11.4213582Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:12:11.4213582Z"
+}

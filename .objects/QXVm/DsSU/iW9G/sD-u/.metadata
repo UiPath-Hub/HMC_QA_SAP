@@ -1,0 +1,13 @@
+﻿{
+  "Id": "sD-uVarpAUmRVcAsu1hweQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/sD-uVarpAUmRVcAsu1hweQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/iW9GUpIfKUWzqlskNlWm6g",
+  "Name": "STANDARD_RADIO_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-08-19T06:30:32.3625907Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-19T06:30:32.3625907Z"
+}

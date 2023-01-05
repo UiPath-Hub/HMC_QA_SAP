@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotManageMaint2&amp;multisdimode=EditSet|}&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1654582546302" ContentHash="0qk8KAaYiUSPf5X9Orbu3A" DesignTimeRectangle="1004, 453, 58, 23" ElementType="InputBox" FriendlyName="'11.6'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO_u_pofinal_{0}' tag='INPUT' /&gt;&quot;, strRow)]" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO_u_pofinal_0' tag='INPUT' type='' aaname='' /&gt;" Guid="f09d0581-3300-41d7-b5bf-3bcc625c212b" IsResponsive="True" Reference="ravHvc9Fl0KflCa7O_MBLA/eooG71awZ0qD2d1CEJSdcQ" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="74, 450, 206, 29" ElementType="Text" FriendlyName="'MFR 230C/2.16 Kg'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO' tag='TABLE' /&gt;&lt;webctrl id='cell_LotPO_u_parameter_{0}' tag='TD' type='' aaname='{1}' /&gt;&quot;, strRow, strParameter)]" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO' tag='TABLE' /&gt;&lt;webctrl id='cell_LotPO_u_parameter_{0}' tag='TD' type='' aaname='{1}' check:text='{1}' /&gt;&quot;, strRow, strParameter)]" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">17yxEGnBl_0-b6orwrp_aCg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0o0Avdpo73Ua34BtZx6BxUw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1f379c813cc5465eab972bbfbd7f7d29.png" xmlns="">0BWXxkrNyrUe1Wutiex0tuw</imageRef>
+</TargetAnchorable>

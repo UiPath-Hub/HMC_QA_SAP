@@ -1,0 +1,15 @@
+﻿{
+  "Id": "wyImqX1fIEGcLMlUQ_5YOA",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/wyImqX1fIEGcLMlUQ_5YOA",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "LAB_ADMIN_MENU",
+  "Type": "Screen",
+  "Created": "2022-09-09T03:04:01.1916359Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-09T03:04:56.2199732Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

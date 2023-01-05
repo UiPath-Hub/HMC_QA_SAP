@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotPackClassify" ContentHash="h93t-c6d7EWwtNeKukeguw" DesignTimeRectangle="47, 216, 50, 30" FriendlyName="'Save *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Save' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='Save' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Save *' /&gt;" Guid="151453fd-b380-4c9c-8aa2-06b6d53e801a" Reference="ravHvc9Fl0KflCa7O_MBLA/t_ZW1-igjkOuqzzR-Ui4Ow" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Batch Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="128, 216, 53, 30" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='ReturnToList' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Return' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1mOxFJYaoUUODXdjy5hVwfw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0mJj04WScKEu_4ifKyHzPug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="983051f3dac4ba0a5ede399f87424fae.png" xmlns="">05ydRnd_vik-dVx9GvKCniQ</imageRef>
+</TargetAnchorable>

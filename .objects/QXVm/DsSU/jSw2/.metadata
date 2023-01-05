@@ -1,0 +1,12 @@
+﻿{
+  "Id": "jSw2EUgmR0-MpyLflTLfqQ",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/jSw2EUgmR0-MpyLflTLfqQ",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/DsSUjuww2ESrko4tq2WQZQ",
+  "Name": "LIMS_MENU_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-28T06:57:40.8005416Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T06:57:40.8005416Z"
+}

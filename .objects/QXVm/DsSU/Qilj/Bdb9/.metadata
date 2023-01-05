@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Bdb9yy0CI0e2eGb7-DvR2g",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/Bdb9yy0CI0e2eGb7-DvR2g",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "TRIAL_RADIO_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Created": "2022-04-28T08:42:38.3914355Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-19T06:39:36.7510589Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

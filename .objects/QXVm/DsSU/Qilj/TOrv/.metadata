@@ -1,0 +1,13 @@
+﻿{
+  "Id": "TOrvdXiu5UOXXAPrg749tg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/TOrvdXiu5UOXXAPrg749tg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/Qilj-ST1z02kRX-OYzCWEA",
+  "Name": "CLASSIFY_EMAIL_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T08:42:37.5183073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:42:37.5183073Z"
+}

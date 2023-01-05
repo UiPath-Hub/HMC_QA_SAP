@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=page&amp;page=LotPackClassifyCS" ContentHash="M8Q4aBSTHk-IpuzeJQGTJA" DesignTimeRectangle="52, 177, 40, 18" ElementType="Text" FriendlyName="'Save *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Save *' parentid='Save' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Save *' parentid='Save' tag='DIV' type='' check:text='Save *' /&gt;" Guid="64a18281-3918-41fc-bb48-0dd31c4d7697" Reference="ravHvc9Fl0KflCa7O_MBLA/KqHz5I4YBkaK9obLX0jo6g" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='1411-e3fc' title='Batch Pack Out : 60120010' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="133, 177, 43, 18" ElementType="Text" FriendlyName="'Return'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl aaname='Return' parentid='ReturnToList' tag='DIV' type='' check:text='Return' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">17qwXDMTJo0yxGGD9UDLS1Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0QQ47v8NVbUqOua6GR3LiUg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="87238e044aabafb7afd52e1f3edf7391.png" xmlns="">0gbD0pZsu50qJKlTTyuMGGQ</imageRef>
+</TargetAnchorable>

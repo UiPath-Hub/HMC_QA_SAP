@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotManageMaint2&amp;multisdimode=EditSet|}&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1651132241565" ContentHash="qdxBClfv5U6zpBQBbzxZ0w" DesignTimeRectangle="225, 295, 543, 21" ElementType="InputBox" FriendlyName="'sutheerat.i@hmcpolymers…'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_classifyemail' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='pr0_u_classifyemail' tag='INPUT' type='text' aaname='' /&gt;" Guid="18aa22e5-95f5-4b62-9b2b-f987ab211500" Reference="ravHvc9Fl0KflCa7O_MBLA/1w8It2n_4EK1gWHowQCYfg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Verify Pack*' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="35, 291, 187, 28" FriendlyName="'Classify E-Mail *'" FullSelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Verify' tag='TABLE' /&gt;&lt;webctrl tableRow='5' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='mainttable_Verify' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='Classify E-Mail ' check:text='Classify E-Mail *' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">5kgHuq9uItEK4u4PkNmIi9w</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">04vLM7s1REECB_tcYP3NRvA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="235a1711856c686b4288f75135435d4a.png" xmlns="">0qO9oj2m3ukqeTnGzRAyV9w</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3039574&amp;wid=87e9-8397" ContentHash="baN75zGij0CMMipFrLpLfQ" DesignTimeRectangle="306, 329, 132, 17" ElementType="Text" FriendlyName="'Historical'" FullSelectorArgument="&lt;webctrl id='topmenu_Historical_tab24' parentid='*' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='topmenu_Historical_tab24' parentid='*' tag='A' type='' aaname='Historical' check:text='Historical' /&gt;" Guid="5c7b7942-42a9-489b-9e28-ba121088db39" Reference="ravHvc9Fl0KflCa7O_MBLA/FUfPqZbifkeUxVAY9R0HBg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Blend *' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="297, 124, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1YebOC7Ma9k-Z0i6dE6FoXw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xL_xiHI-UESFRTOyXPiAcA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ba466500fdf905e68e9f3febf6aafeab.png" xmlns="">0zwMzGlAMoE-GMgogjyUv9g</imageRef>
+</TargetAnchorable>

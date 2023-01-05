@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=page&amp;page=LotManageMaint2&amp;multisdimode=EditSet|}&amp;command=page&amp;sdcid=lot&amp;_iframename=maint&amp;__crc=crc_1654582546302" ContentHash="tpven34SjES7RDAefSigrg" DesignTimeRectangle="1091, 453, 58, 23" ElementType="InputBox" FriendlyName="'INPUT LotPO_u_pofinal2_0'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO_u_pofinal2_{0}' tag='INPUT' /&gt;&quot;, strRow)]" FuzzySelectorArgument="&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO_u_pofinal2_0' tag='INPUT' type='' aaname='' /&gt;" Guid="b0ea1e83-2ad4-462f-a1fb-fb15cdd64cc4" IsResponsive="True" Reference="ravHvc9Fl0KflCa7O_MBLA/BHMijv8_TUaudy6p4mbxZA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='ba55-f472' title='Verify Pack Out Batch 60092349' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="74, 450, 206, 29" ElementType="Text" FriendlyName="'MFR 230C/2.16 Kg'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO' tag='TABLE' /&gt;&lt;webctrl id='cell_LotPO_u_parameter_{0}' tag='TD' type='' aaname='{1}' /&gt;&quot;, strRow, strParameter)]" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='_nav_frame1' tag='IFRAME' /&gt;&lt;webctrl id='maint_iframe' tag='IFRAME' /&gt;&lt;webctrl id='LotPO' tag='TABLE' /&gt;&lt;webctrl id='cell_LotPO_u_parameter_{0}' tag='TD' type='' aaname='{1}' check:text='{1}' /&gt;&quot;, strRow, strParameter)]" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1T8wcqsdKb0S69M5hvT2w2Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Z7E0xgVn7EeF7jvUIwRJpA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1f702c44b445fb9472fb58c432fcb036.png" xmlns="">0buTKv4WyRkuuFNmHHgS6nA</imageRef>
+</TargetAnchorable>

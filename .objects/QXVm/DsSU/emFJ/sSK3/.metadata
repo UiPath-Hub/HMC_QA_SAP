@@ -1,0 +1,13 @@
+﻿{
+  "Id": "sSK3CuN290y28D37oYu6Lg",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/sSK3CuN290y28D37oYu6Lg",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/emFJGUIP00CYuXD7pqkFYg",
+  "Name": "SEARCH_BATCH_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-28T08:25:19.0385327Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T08:25:19.0385327Z"
+}

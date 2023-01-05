@@ -1,0 +1,13 @@
+﻿{
+  "Id": "y6XY33PAQE-2s_3bagFf1g",
+  "Reference": "ravHvc9Fl0KflCa7O_MBLA/y6XY33PAQE-2s_3bagFf1g",
+  "ParentRef": "ravHvc9Fl0KflCa7O_MBLA/JEJiSsdbzUeEEJbTM_zKeQ",
+  "Name": "BLEND_AND_PACK_OUT_MENU",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-04-28T07:17:43.961965Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-28T07:17:43.961965Z"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://hmcmtp-limsapp:8080/lims/rc?command=state&amp;state=3206065&amp;wid=3d26-66c2" ContentHash="hSprwu1w7kmJdAXvPShzdw" DesignTimeRectangle="1725, 138, 36, 26" ElementType="InputBox" FriendlyName="'DIV ws_gizmotarget_f_it…'" FullSelectorArgument="&lt;webctrl tag='DIV' class='ws_gizmotarget ws_gizmotarget_top' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='DIV' class='ws_gizmotarget ws_gizmotarget_top' type='' aaname='' /&gt;" Guid="3b6716b8-7767-4dbd-86ab-0e3b3b8c1061" Reference="ravHvc9Fl0KflCa7O_MBLA/uVr_TTR7-kehP7avx4ZuUg" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='*' title='Specification *' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <TargetAnchorable.PointOffset>
+    <PointOffset Position="BottomLeft" X="21" Y="-16" />
+  </TargetAnchorable.PointOffset>
+  <imageRef attrName="ImageBase64" xmlns="">0lSHwDUK8hECgeHuvqxuK9w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="00a94d7a0b7bd1c870bde79c4bd4c152.png" xmlns="">0J0mAKg4bpUqq8Ec13xCRkw</imageRef>
+</TargetAnchorable>

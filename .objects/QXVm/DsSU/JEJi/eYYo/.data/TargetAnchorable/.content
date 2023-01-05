@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://192.168.252.94:8080/lims/rc?command=state&amp;state=2609443&amp;wid=c67f-9732" ContentHash="Z0qdUubdwEOk-MzBfyPBYQ" DesignTimeRectangle="297, 79, 173, 52" ElementType="Text" FriendlyName="'Batch Management'" FullSelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_tab24' tag='SPAN' type='' aaname='Batch Management' check:text='Batch Management' /&gt;" Guid="980acd60-5dee-4363-815f-dd81fd5db3fa" Reference="ravHvc9Fl0KflCa7O_MBLA/eYYo1X0AG0aN2xGC9SIXlw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='c67f-9732' title='Sample List' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="199, 79, 98, 52" ElementType="Text" FriendlyName="'Samples'" FullSelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_Sample' tag='SPAN' type='' aaname='Samples' check:text='Samples' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">11iTafhVBlU-uIbePoyKQGQ</imageRef>
+      </Target>
+      <Target DesignTimeRectangle="470, 79, 154, 52" ElementType="Text" FriendlyName="'Special Requests'" FullSelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='e_topmenu_request' tag='SPAN' type='' aaname='Special Requests' check:text='Special Requests' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">12PiR3b0l_b0Cbp58yp0YBuQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0AjaOJS8XLECxizhbtChOMQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="72e5b02ec2351eef7fee5eec2a46d5f4.png" xmlns="">0vbd1epnIAUqk_9sYzw1qnQ</imageRef>
+</TargetAnchorable>
